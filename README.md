@@ -1,5 +1,5 @@
 ### Hey there! 👋
-- 🪷 Work at swatteur & xZeus Project
+- 🪷 Work at xZeus Bot's
 - 📫 16 year old 
 - 🇫🇷 I live in France
 
