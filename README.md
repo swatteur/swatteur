@@ -1,6 +1,6 @@
 ### Hey there! 👋
 - 🪷 Work at xZeus Bot's
-- 📫 16 year old 
+- 📫 14 year old 
 - 🇫🇷 I live in France
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatteur&label=Profile%20views&color=0e75b6&style=flat" alt="swatteur" /> 
