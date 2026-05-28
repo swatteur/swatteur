@@ -25,4 +25,3 @@
 
  ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
- ![MacOS](https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=ios&logoColor=white)
